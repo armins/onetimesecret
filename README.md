@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/armins/onetimesecret/badge.svg?targetFile=Gemfile.lock)](https://snyk.io/test/github/armins/onetimesecret?targetFile=Gemfile.lock)
+
 # ONE-TIME SECRET - v0.10.1 (2018-06-27)
 
 *Keep sensitive info out of your email & chat logs.*
