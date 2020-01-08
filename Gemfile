@@ -4,9 +4,9 @@ source "https://rubygems.org/"
 # PRODUCTION: bundle install --deployment --without dev
 
 gem 'addressable', '~> 2.2.6'
-gem 'rack'
+gem 'rack', '>= 2.0.8'
 gem 'yajl-ruby', '~> 1.4.1'
-gem 'thin'
+gem 'thin', '>= 1.7.2'
 
 gem 'mustache', '~> 0.99.3'
 
