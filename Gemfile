@@ -4,7 +4,7 @@ source "https://rubygems.org/"
 # PRODUCTION: bundle install --deployment --without dev
 
 gem 'addressable', '~> 2.2.6'
-gem 'rack', '>= 2.1.3'
+gem 'rack', '>= 2.2.3'
 gem 'yajl-ruby', '~> 1.4.1'
 gem 'thin', '>= 1.7.2'
 
