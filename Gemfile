@@ -6,7 +6,7 @@ source "https://rubygems.org/"
 gem 'addressable', '~> 2.2.6'
 gem 'rack', '>= 2.2.3'
 gem 'yajl-ruby', '~> 1.4.1'
-gem 'thin', '>= 1.7.2'
+gem 'thin', '1.8.0'
 
 gem 'mustache', '~> 0.99.3'
 
@@ -27,8 +27,7 @@ gem 'annoy', '~> 0.5.6'
 #gem 'rye', '0.9.4'
 
 gem 'httparty'
-
-gem 'mail', '~> 2.5.4'
+gem 'mail', '2.5.5'
 
 # bundle install --frozen --deployment --without=dev
 group :dev do
